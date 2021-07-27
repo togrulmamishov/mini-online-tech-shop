@@ -1,0 +1,8 @@
+az\media\online\shopping\data\DataSource$ProtectPass.class
+az\media\online\shopping\servlets\Controller.class
+az\media\online\shopping\data\DataSource.class
+az\media\online\shopping\filter\AdminAuthorisation.class
+az\media\online\shopping\servlets\AdminController.class
+az\media\online\shopping\data\Product.class
+az\media\online\shopping\data\DataSource$1.class
+az\media\online\shopping\data\User.class
